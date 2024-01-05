@@ -9,8 +9,8 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <PuzzleWalletProvider
       dAppName="Who's the father?"
       dAppDescription='Inspired by Maury'
-      dAppUrl='https://wheresalex.puzzle.online'
-      dAppIconURL='https://wheresalex.puzzle.online/alex_head.png'
+      dAppUrl='https://whos-the-father.vercel.app/'
+      dAppIconURL='https://whos-the-father.vercel.app/alex_head.png'
       // will change this once deployed to vercel!
     >
       <App />
